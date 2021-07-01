@@ -11,7 +11,7 @@ import taxi.service.DriverService;
 @Service
 public class AuthenticationServiceImpl implements AuthenticationService {
     private static final Injector injector = Injector.getInstance("taxi");
-    private final DriverService driverService =
+    private DriverService driverService =
             (DriverService) injector.getInstance(DriverService.class);
 
     @Override

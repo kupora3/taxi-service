@@ -20,6 +20,9 @@ public class Driver {
         this.password = password;
     }
 
+    public Driver() {
+    }
+
     public String getLogin() {
         return login;
     }
