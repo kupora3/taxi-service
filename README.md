@@ -37,6 +37,7 @@ Project built:
 4. JSTL
 5. HTML, CSS
 6. Tomcat
+
 DB:
 1. MySQL
 
