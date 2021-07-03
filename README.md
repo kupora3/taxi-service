@@ -10,6 +10,7 @@ When we are logged in, we get to the main page. There we can:
 5. Create a new manufacturer
 6. Add driver to car
 7. Show all our cars
+
 When you end your work, you can log out.
 ## How to install project
 ### You can follow the steps
